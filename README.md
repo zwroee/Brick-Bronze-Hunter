@@ -1,13 +1,12 @@
 ![program_logo_original_size](https://github.com/user-attachments/assets/2762b60c-3683-4c8a-8ebc-1201d8b3f81e)
 
-Pokemon Brick Bronze Auto Hunter is an automated tool for hunting Pokemon in the popular Roblox game Pokemon Brick Bronze. This program uses image recognition and automated key movements to do your Pokemon hunting while you afk. 
+**Pokemon Brick Bronze Auto Hunter is an automated tool for hunting Pokemon in the popular Roblox game Pokemon Brick Bronze. This program uses image recognition and automated key movements to do your Pokemon hunting while you afk.**
 
-Yes this program is good enough to do shiny hunting. 
 
-## Screenshot:
+**## Screenshot:**
 <img width="645" height="876" alt="Screenshot 2025-09-03 043956" src="https://github.com/user-attachments/assets/6e2e64f1-a0cf-44c6-a8ad-5a0bf8fcc8e9" />
 
-## Features:
+**## Features:**
 1. Automated Pokémon Hunting
 Effortlessly hunts for wild Pokémon 24/7, perfect for shiny hunting, legendary farming.
 
@@ -23,7 +22,7 @@ Stays active even during long sessions with built-in anti-AFK to keep the grind 
 5. Easy Configuration
 User-friendly setup with simple toggles for webhook settings, target lists, and hunt behavior.
 
-## Quick Start Instructions: 
+**## Quick Start Instructions:**
 1. Please find the Pokemon you are looking for from the following websites:
 
             Gen 1: https://projectpokemon.org/home/docs/spriteindex_148/3d-models-generation-1-pok%C3%A9mon-r90/
@@ -44,7 +43,7 @@ User-friendly setup with simple toggles for webhook settings, target lists, and 
 
    Now you are free to leave the computer, and let it do its thing. When the program finds a match it will 'idle' (click around on the screen) to keep you from being disconnected.
 
-## Other Notes: 
+**## Other Notes:** 
 
   -This program only works for 16x9 monitors so no CRTS or ultrawide screens as I don't have those to test on.
 
