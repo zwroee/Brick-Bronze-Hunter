@@ -3,7 +3,7 @@
 **Pokemon Brick Bronze Auto Hunter is an automated tool for hunting Pokemon in the popular Roblox game Pokemon Brick Bronze. This program uses image recognition and automated key movements to do your Pokemon hunting while you afk.**
 
 
-**## Screenshot:**
+## Screenshot:
 <img width="645" height="876" alt="Screenshot 2025-09-03 043956" src="https://github.com/user-attachments/assets/6e2e64f1-a0cf-44c6-a8ad-5a0bf8fcc8e9" />
 
 **## Features:**
