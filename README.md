@@ -7,6 +7,21 @@ Yes this program is good enough to do shiny hunting.
 ## Screenshot:
 <img width="645" height="876" alt="Screenshot 2025-09-03 043956" src="https://github.com/user-attachments/assets/6e2e64f1-a0cf-44c6-a8ad-5a0bf8fcc8e9" />
 
+## Features:
+1. Automated Pokémon Hunting
+Effortlessly hunts for wild Pokémon 24/7, perfect for shiny hunting, legendary farming.
+
+2. Discord Webhook Integration
+Get instant notifications sent directly to your Discord server when a rare, shiny, legendary, or target Pokémon is encountered.
+
+3. Custom Target Filters
+Set specific Pokémon, types, or rarities as your hunting targets. The bot will alert or pause automatically when a match is found.
+
+4. Anti-AFK
+Stays active even during long sessions with built-in anti-AFK to keep the grind going nonstop.
+
+5. Easy Configuration
+User-friendly setup with simple toggles for webhook settings, target lists, and hunt behavior.
 
 ## Quick Start Instructions: 
 1. Please find the Pokemon you are looking for from the following websites:
